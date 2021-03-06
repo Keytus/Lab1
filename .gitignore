@@ -1,0 +1,5 @@
+.flake8
+.pylintrc
+Dockerfile
+Makefile
+requirements.txt
